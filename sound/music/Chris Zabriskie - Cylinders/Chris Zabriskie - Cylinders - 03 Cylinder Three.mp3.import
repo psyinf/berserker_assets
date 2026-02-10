@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dhfk77j4dqtya"
+path="res://.godot/imported/Chris Zabriskie - Cylinders - 03 Cylinder Three.mp3-98962210da12018354053284fd8d2a5c.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/music/Chris Zabriskie - Cylinders/Chris Zabriskie - Cylinders - 03 Cylinder Three.mp3"
+dest_files=["res://.godot/imported/Chris Zabriskie - Cylinders - 03 Cylinder Three.mp3-98962210da12018354053284fd8d2a5c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

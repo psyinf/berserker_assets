@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b7dyq167o2cas"
+path="res://.godot/imported/Chris Zabriskie - Cylinders - 02 Cylinder Two.mp3-9cc3864f6f22d6a3a2412fb5e27c1419.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/music/Chris Zabriskie - Cylinders/Chris Zabriskie - Cylinders - 02 Cylinder Two.mp3"
+dest_files=["res://.godot/imported/Chris Zabriskie - Cylinders - 02 Cylinder Two.mp3-9cc3864f6f22d6a3a2412fb5e27c1419.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

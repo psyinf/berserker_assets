@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://w0qrqgiv0qdq"
+path="res://.godot/imported/Chris Zabriskie - Cylinders - 07 Cylinder Seven.mp3-8b0fc99b9bf0670a7284d47176c7994d.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/music/Chris Zabriskie - Cylinders/Chris Zabriskie - Cylinders - 07 Cylinder Seven.mp3"
+dest_files=["res://.godot/imported/Chris Zabriskie - Cylinders - 07 Cylinder Seven.mp3-8b0fc99b9bf0670a7284d47176c7994d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bkfxasly4l7ue"
+path="res://.godot/imported/Chris Zabriskie - Cylinders - 08 Cylinder Eight.mp3-c8629919a782d6ef6ed2cad75a46d234.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/music/Chris Zabriskie - Cylinders/Chris Zabriskie - Cylinders - 08 Cylinder Eight.mp3"
+dest_files=["res://.godot/imported/Chris Zabriskie - Cylinders - 08 Cylinder Eight.mp3-c8629919a782d6ef6ed2cad75a46d234.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

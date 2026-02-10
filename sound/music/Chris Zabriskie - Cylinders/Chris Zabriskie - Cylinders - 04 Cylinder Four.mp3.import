@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://xqhlcii3f50g"
+path="res://.godot/imported/Chris Zabriskie - Cylinders - 04 Cylinder Four.mp3-ef03d9882f600b7b6d7f017d9a3ccb7e.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/music/Chris Zabriskie - Cylinders/Chris Zabriskie - Cylinders - 04 Cylinder Four.mp3"
+dest_files=["res://.godot/imported/Chris Zabriskie - Cylinders - 04 Cylinder Four.mp3-ef03d9882f600b7b6d7f017d9a3ccb7e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

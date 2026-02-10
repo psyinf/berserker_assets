@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://nqp5aqjcduhr"
+path="res://.godot/imported/Chris Zabriskie - Cylinders - 06 Cylinder Six.mp3-1f27c1406202b3c2698c96308984b853.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/music/Chris Zabriskie - Cylinders/Chris Zabriskie - Cylinders - 06 Cylinder Six.mp3"
+dest_files=["res://.godot/imported/Chris Zabriskie - Cylinders - 06 Cylinder Six.mp3-1f27c1406202b3c2698c96308984b853.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

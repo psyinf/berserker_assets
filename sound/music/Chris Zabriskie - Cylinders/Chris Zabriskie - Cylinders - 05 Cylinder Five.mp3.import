@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://2i8ywsf1od5w"
+path="res://.godot/imported/Chris Zabriskie - Cylinders - 05 Cylinder Five.mp3-a34c5ae72b476f3432aa1628c853233f.mp3str"
+
+[deps]
+
+source_file="res://assets/sound/music/Chris Zabriskie - Cylinders/Chris Zabriskie - Cylinders - 05 Cylinder Five.mp3"
+dest_files=["res://.godot/imported/Chris Zabriskie - Cylinders - 05 Cylinder Five.mp3-a34c5ae72b476f3432aa1628c853233f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
